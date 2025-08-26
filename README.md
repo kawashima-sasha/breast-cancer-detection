@@ -11,11 +11,11 @@ This project implements two different neural network architectures to classify b
 - NumPy, Pandas, Matplotlib
 - Jupyter Notebook
 
-## Dataset
+[## Dataset
 - **Source:** Breast Histopathology Images (Kaggle)
 - **Sample:** 20,000 patches from 277,524 total images
 - **Format:** 50x50 pixel RGB histopathology patches
-- **Classes:** Binary (0=Benign, 1=Malignant)
+- **Classes:** Binary (0=Benign, 1=Malignant)](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)
 
 ## Model Comparison
 
